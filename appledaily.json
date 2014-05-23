@@ -1,85 +1,90 @@
 [
 	{
 		"category": "動物",
-		"news_count": 2,
+		"news_count": 3,
 		"news": [
 			{
-				"title": "悠哉發懶　毛小孩真好命(422)",
-				"url": "/realtimenews/article/animal/20140523/402773/悠哉發懶　毛小孩真好命",
-				"time": "00:31",
+				"title": "貓版　小孩從小要教好(469)",
+				"url": "/realtimenews/article/animal/20140523/402745/貓版　小孩從小要教好",
+				"time": "11:25",
 				"video": false
 			},
 			{
-				"title": "手掌心的你　融化我心！(313)",
-				"url": "/realtimenews/article/animal/20140523/402772/手掌心的你　融化我心！",
-				"time": "00:15",
+				"title": "「樹醫生」現身　小朋友驚嘆(394)",
+				"url": "/realtimenews/article/animal/20140523/402979/「樹醫生」現身　小朋友驚嘆",
+				"time": "11:00",
 				"video": false
+			},
+			{
+				"title": "跨物種純愛　袋鼠抱黑狗：不要走(256)",
+				"url": "/realtimenews/article/animal/20140523/402505/跨物種純愛　袋鼠抱黑狗：不要走",
+				"time": "10:43",
+				"video": true
 			}
 		]
 	},
 	{
 		"category": "FUN",
-		"news_count": 3,
+		"news_count": 2,
 		"news": [
 			{
-				"title": "【占卜】可愛萌主 vs. 嬌蠻傲嬌　你是...(292)",
-				"url": "/realtimenews/article/fun/20140523/402758/【占卜】可愛萌主vs.嬌蠻傲嬌　你是哪一個？",
-				"time": "00:27",
-				"video": true
-			},
-			{
-				"title": "超逼真　看了就餓(10781)",
-				"url": "/realtimenews/article/fun/20140523/402767/超逼真　看了就餓",
-				"time": "00:18",
+				"title": "考你的旅遊知識　最高分送機票(172)",
+				"url": "/realtimenews/article/fun/20140523/402980/考你的旅遊知識　最高分送機票",
+				"time": "10:55",
 				"video": false
 			},
 			{
-				"title": "替代電玩 十二個重現小孩純真笑容的玩具(585)",
-				"url": "/realtimenews/article/fun/20140523/402782/替代電玩十二個重現小孩純真笑容的玩具",
-				"time": "00:08",
+				"title": "媽媽你的肚子怎麼了！？(1321)",
+				"url": "/realtimenews/article/fun/20140523/402780/媽媽你的肚子怎麼了！？",
+				"time": "10:26",
 				"video": false
 			}
 		]
 	},
 	{
 		"category": "瘋啥",
-		"news_count": 2,
-		"news": [
-			{
-				"title": "別看電視了　療癒家電周邊給你呼呼(313)",
-				"url": "/realtimenews/article/3c/20140523/402791/別看電視了　療癒家電周邊給你呼呼",
-				"time": "00:23",
-				"video": false
-			},
-			{
-				"title": "想要嗎　積木FU復古3C也太古錐(364)",
-				"url": "/realtimenews/article/3c/20140523/402797/想要嗎　積木FU復古3C也太古錐",
-				"time": "00:20",
-				"video": false
-			}
-		]
+		"news_count": 0,
+		"news": []
 	},
 	{
 		"category": "搜奇",
-		"news_count": 3,
+		"news_count": 6,
 		"news": [
 			{
-				"title": "10年心血　灌木叢修出一條龍(1748)",
-				"url": "/realtimenews/article/strange/20140522/402841/10年心血　灌木叢修出一條龍",
-				"time": "23:08",
+				"title": "男童爬電線桿捉鳥　睪丸被電到燒焦(935)",
+				"url": "/realtimenews/article/strange/20140523/402978/男童爬電線桿捉鳥　睪丸被電到燒焦",
+				"time": "11:28",
 				"video": false
 			},
 			{
-				"title": "跟蟒蛇玩5P　體驗纏綿交疊(893)",
+				"title": "英醉男鐵軌攔車　幸火車煞住逃過一劫(86)",
+				"url": "/realtimenews/article/strange/20140523/402996/英醉男鐵軌攔車　幸火車煞住逃過一劫",
+				"time": "11:24",
+				"video": true
+			},
+			{
+				"title": "跟蟒蛇玩5P　體驗纏綿交疊(1322)",
 				"url": "/realtimenews/article/strange/20140523/402941/跟蟒蛇玩5P　體驗纏綿交疊",
 				"time": "09:36",
 				"video": true
 			},
 			{
-				"title": "她有3千人斬14P經驗　出書教性知識(5794)",
+				"title": "她有3千人斬14P經驗　出書教性知識(7170)",
 				"url": "/realtimenews/article/strange/20140523/402924/她有3千人斬14P經驗　出書教性知識",
 				"time": "08:36",
 				"video": false
+			},
+			{
+				"title": "健忘竊賊闖空門　竟留下手機(153)",
+				"url": "/realtimenews/article/strange/20140523/402976/健忘竊賊闖空門　竟留下手機",
+				"time": "10:52",
+				"video": false
+			},
+			{
+				"title": "得知升格當阿嬤　婦嗨到最高潮(1485)",
+				"url": "/realtimenews/article/strange/20140523/402965/得知升格當阿嬤　婦嗨到最高潮",
+				"time": "10:38",
+				"video": true
 			}
 		]
 	},
@@ -88,45 +93,57 @@
 		"news_count": 1,
 		"news": [
 			{
-				"title": "【動新聞】F奶姬濕身震奶　網友驚呼：波濤...(3503)",
-				"url": "/realtimenews/article/beauty/20140523/402680/【動新聞】F奶姬濕身震奶　網友驚呼：波濤洶湧",
-				"time": "00:00",
+				"title": "潑水節玩超大！正妹當街被壯漢扒上衣(11632)",
+				"url": "/realtimenews/article/beauty/20140523/402967/潑水節玩超大！正妹當街被壯漢扒上衣",
+				"time": "10:42",
 				"video": true
 			}
 		]
 	},
 	{
 		"category": "體育",
-		"news_count": 5,
+		"news_count": 7,
 		"news": [
 			{
-				"title": "喬治缺席球隊對抗練習　第3戰上陣成謎(12)",
+				"title": "【更新】殷仔第6勝再等等　延長13局金鶯...(6057)",
+				"url": "/realtimenews/article/sports/20140523/402906/【更新】殷仔第6勝再等等　延長13局金鶯輸",
+				"time": "11:37",
+				"video": false
+			},
+			{
+				"title": "喬治缺席球隊對抗練習　第3戰上陣成謎(230)",
 				"url": "/realtimenews/article/sports/20140523/402956/喬治缺席球隊對抗練習　第3戰上陣成謎",
 				"time": "10:00",
 				"video": true
 			},
 			{
-				"title": "【更新】殷仔6.2局失5分退場　無關勝敗(5080)",
-				"url": "/realtimenews/article/sports/20140523/402906/【更新】殷仔6.2局失5分退場　無關勝敗",
-				"time": "09:49",
-				"video": false
-			},
-			{
-				"title": "藍鳥橫掃紅襪　柏利暫居勝投王(235)",
+				"title": "藍鳥橫掃紅襪　柏利暫居勝投王(289)",
 				"url": "/realtimenews/article/sports/20140523/402926/藍鳥橫掃紅襪　柏利暫居勝投王",
 				"time": "08:26",
-				"video": false
+				"video": true
 			},
 			{
-				"title": "咬掉隊友耳朵　歐立佛遭道奇釋出(1468)",
-				"url": "/realtimenews/article/sports/20140523/402922/咬掉隊友耳朵　歐立佛遭道奇釋出",
+				"title": "咬掉隊友耳朵　歐利佛遭道奇釋出(1616)",
+				"url": "/realtimenews/article/sports/20140523/402922/咬掉隊友耳朵　歐利佛遭道奇釋出",
 				"time": "08:11",
 				"video": false
 			},
 			{
-				"title": "遊騎兵火力發揮　達比修有奪第4勝(316)",
-				"url": "/realtimenews/article/sports/20140523/402918/遊騎兵火力發揮　達比修有奪第4勝",
+				"title": "【MLB】遊騎兵火力發揮　達比修有奪第4...(419)",
+				"url": "/realtimenews/article/sports/20140523/402918/【MLB】遊騎兵火力發揮　達比修有奪第4勝",
 				"time": "07:49",
+				"video": true
+			},
+			{
+				"title": "空中巴士LPGA精英賽首輪　妮妮獵鷹暫居...(320)",
+				"url": "/realtimenews/article/sports/20140523/402977/空中巴士LPGA精英賽首輪　妮妮獵鷹暫居52名",
+				"time": "10:49",
+				"video": false
+			},
+			{
+				"title": "籃網威廉斯進廠大修　兩腳踝都將動刀(229)",
+				"url": "/realtimenews/article/sports/20140523/402963/籃網威廉斯進廠大修　兩腳踝都將動刀",
+				"time": "10:24",
 				"video": false
 			}
 		]
@@ -136,187 +153,121 @@
 		"news_count": 4,
 		"news": [
 			{
-				"title": "【新手爸媽】小孩高燒5天 恐心臟病上身(512)",
-				"url": "/realtimenews/article/facebook/20140523/402865/【新手爸媽】小孩高燒5天恐心臟病上身",
-				"time": "02:33",
+				"title": "【台灣好食材】便祕怎麼辦？懶人包告訴您(6)",
+				"url": "/realtimenews/article/facebook/20140523/403027/【台灣好食材】便祕怎麼辦？懶人包告訴您",
+				"time": "11:51",
 				"video": false
 			},
 			{
-				"title": "【閱讀】擁抱的力量(448)",
-				"url": "/realtimenews/article/facebook/20140523/402853/【閱讀】擁抱的力量",
-				"time": "00:03",
-				"video": false
-			},
-			{
-				"title": "【生活情報讚】戒指卡死手指頭怎麼辦？一根...(682)",
-				"url": "/realtimenews/article/facebook/20140522/402835/【生活情報讚】戒指卡死手指頭怎麼辦？一根牙線就解危！",
-				"time": "22:51",
-				"video": false
-			},
-			{
-				"title": "【愛愛Love】第一次滑雪就上手.......(341)",
+				"title": "【愛愛Love】第一次滑雪就上手.......(537)",
 				"url": "/realtimenews/article/facebook/20140523/400373/【愛愛Love】第一次滑雪就上手....原來一切都是真的♥愛愛的北海道Niseko滑雪日記♥♥♥",
-				"time": "09:09",
+				"time": "11:17",
+				"video": false
+			},
+			{
+				"title": "【Dr.愛瘋】2014.05.23 限時...(180)",
+				"url": "/realtimenews/article/facebook/20140523/402985/【Dr.愛瘋】2014.05.23限時免費軟體APP報報",
+				"time": "11:02",
+				"video": false
+			},
+			{
+				"title": "【新手爸媽】才一出生 就被燙成這樣(53)",
+				"url": "/realtimenews/article/facebook/20140523/402876/【新手爸媽】才一出生就被燙成這樣",
+				"time": "03:28",
 				"video": false
 			}
 		]
 	},
 	{
 		"category": "娛樂",
-		"news_count": 26,
+		"news_count": 15,
 		"news": [
 			{
-				"title": "燒喔~~巨乳姊妹花脫內褲　賞給網友(3045)",
-				"url": "/realtimenews/article/entertainment/20140523/402728/燒喔~~巨乳姊妹花脫內褲　賞給網友",
-				"time": "02:11",
+				"title": "搶救事業先救ㄋㄟㄋㄟ  她找金主贊助豐胸(264)",
+				"url": "/realtimenews/article/entertainment/20140523/403019/搶救事業先救ㄋㄟㄋㄟ她找金主贊助豐胸",
+				"time": "11:45",
 				"video": false
 			},
 			{
-				"title": "夭壽！強哥禿變　撞臉老不修影帝(2229)",
-				"url": "/realtimenews/article/entertainment/20140523/402815/夭壽！強哥禿變　撞臉老不修影帝",
-				"time": "02:05",
+				"title": "比起東海真誠動容　吳念真：另一個學校……(2643)",
+				"url": "/realtimenews/article/entertainment/20140523/402981/比起東海真誠動容　吳念真：另一個學校……",
+				"time": "11:23",
 				"video": false
 			},
 			{
-				"title": "​《變形金剛4》招商　滷鴨人家砸錢置入(1473)",
-				"url": "/realtimenews/article/entertainment/20140523/402816/​《變形金剛4》招商　滷鴨人家砸錢置入",
-				"time": "01:59",
+				"title": "飛鳥涼沾毒案外案　暴瘦音樂人躺著也中槍(330)",
+				"url": "/realtimenews/article/entertainment/20140523/402802/飛鳥涼沾毒案外案　暴瘦音樂人躺著也中槍",
+				"time": "11:16",
 				"video": false
 			},
 			{
-				"title": "​​裘莉14歲照片鬧詭　雙眼空洞著魔(2744)",
-				"url": "/realtimenews/article/entertainment/20140523/402814/​​裘莉14歲照片鬧詭　雙眼空洞著魔",
-				"time": "01:58",
-				"video": false
-			},
-			{
-				"title": "最幸福的準丈母娘　爽收千萬豪宅(5315)",
-				"url": "/realtimenews/article/entertainment/20140523/402805/最幸福的準丈母娘　爽收千萬豪宅",
-				"time": "01:29",
-				"video": false
-			},
-			{
-				"title": "黃小柔自拍孕肚　碎念未出世娃(2105)",
-				"url": "/realtimenews/article/entertainment/20140523/402798/黃小柔自拍孕肚　碎念未出世娃",
-				"time": "01:16",
-				"video": false
-			},
-			{
-				"title": "韓國男星嫌棄善良妹　就愛狐狸女(2139)",
-				"url": "/realtimenews/article/entertainment/20140523/402844/韓國男星嫌棄善良妹　就愛狐狸女",
-				"time": "01:10",
-				"video": false
-			},
-			{
-				"title": "秀智年賺3億　媽捨不得吃牛排(1863)",
-				"url": "/realtimenews/article/entertainment/20140523/402812/秀智年賺3億　媽捨不得吃牛排",
-				"time": "01:02",
-				"video": false
-			},
-			{
-				"title": "嫖妓男正宮曬奶超辣！別睡變性人啦(5108)",
-				"url": "/realtimenews/article/entertainment/20140523/402734/嫖妓男正宮曬奶超辣！別睡變性人啦",
-				"time": "00:55",
-				"video": false
-			},
-			{
-				"title": "金秀賢怎變這樣！還我都敏俊(3718)",
-				"url": "/realtimenews/article/entertainment/20140523/402849/金秀賢怎變這樣！還我都敏俊",
-				"time": "00:52",
-				"video": false
-			},
-			{
-				"title": "諧星假性全裸　高難度體位飄AV味　(3255)",
-				"url": "/realtimenews/article/entertainment/20140523/402810/諧星假性全裸　高難度體位飄AV味　",
-				"time": "00:44",
-				"video": false
-			},
-			{
-				"title": "穿越啦～～李準基作古吞泡麵(747)",
-				"url": "/realtimenews/article/entertainment/20140523/402811/穿越啦～～李準基作古吞泡麵",
-				"time": "00:33",
-				"video": false
-			},
-			{
-				"title": "人妻露肩飆idea　蝦餃香水也太噁(1237)",
-				"url": "/realtimenews/article/entertainment/20140523/402852/人妻露肩飆idea　蝦餃香水也太噁",
-				"time": "00:33",
-				"video": false
-			},
-			{
-				"title": "【捷運殺人】李妍瑾嗆鄭捷追隨者　別拉人陪...(3533)",
-				"url": "/realtimenews/article/entertainment/20140523/402803/【捷運殺人】李妍瑾嗆鄭捷追隨者　別拉人陪葬",
-				"time": "00:10",
-				"video": false
-			},
-			{
-				"title": "跟政客掛勾！　歐巴暗當樁腳(415)",
-				"url": "/realtimenews/article/entertainment/20140523/402522/跟政客掛勾！　歐巴暗當樁腳",
-				"time": "00:05",
-				"video": false
-			},
-			{
-				"title": "【明星自述】六月怕殺人狂不敢低頭(164)",
-				"url": "/realtimenews/article/entertainment/20140523/402788/【明星自述】六月怕殺人狂不敢低頭",
-				"time": "00:05",
-				"video": false
-			},
-			{
-				"title": "【自爆101秒】陳子強露毛倒立　奶頭被搔(1156)",
-				"url": "/realtimenews/article/entertainment/20140523/402746/【自爆101秒】陳子強露毛倒立　奶頭被搔",
-				"time": "00:01",
-				"video": true
-			},
-			{
-				"title": "白歆惠飛撲明道   全身濕透(9)",
+				"title": "白歆惠飛撲明道   全身濕透(962)",
 				"url": "/realtimenews/article/entertainment/20140523/402955/白歆惠飛撲明道全身濕透",
 				"time": "09:56",
 				"video": false
 			},
 			{
-				"title": "一個月來2次　比大姨媽還勤(544)",
+				"title": "一個月來2次　比大姨媽還勤(3112)",
 				"url": "/realtimenews/article/entertainment/20140523/402818/一個月來2次　比大姨媽還勤",
 				"time": "09:54",
 				"video": false
 			},
 			{
-				"title": "15年搭擋拆夥　謝震武同時段單挑吳淡如(2289)",
+				"title": "15年搭擋拆夥　謝震武同時段單挑吳淡如(3014)",
 				"url": "/realtimenews/article/entertainment/20140523/402927/15年搭擋拆夥　謝震武同時段單挑吳淡如",
 				"time": "09:01",
 				"video": false
 			},
 			{
-				"title": "林凡認愛高中同學　街頭可擁不能吻(2557)",
+				"title": "林凡認愛高中同學　街頭可擁不能吻(3005)",
 				"url": "/realtimenews/article/entertainment/20140523/402921/林凡認愛高中同學　街頭可擁不能吻",
 				"time": "08:11",
 				"video": false
 			},
 			{
-				"title": "【動新聞】屠殺怪低頭族　楊一展飆立委腦殘(1061)",
+				"title": "【動新聞】屠殺怪低頭族　楊一展飆立委腦殘(1206)",
 				"url": "/realtimenews/article/entertainment/20140523/402910/【動新聞】屠殺怪低頭族　楊一展飆立委腦殘",
 				"time": "07:37",
 				"video": true
 			},
 			{
-				"title": "張小燕　用自己的方式留住亡夫(3147)",
+				"title": "張小燕　用自己的方式留住亡夫(3696)",
 				"url": "/realtimenews/article/entertainment/20140523/402909/張小燕　用自己的方式留住亡夫",
 				"time": "07:27",
 				"video": false
 			},
 			{
-				"title": "周迅男友嫌疑小三　深夜感情大告白(3044)",
+				"title": "李妍瑾轟信編故事　自曝幫＿＿擦屍水(925)",
+				"url": "/realtimenews/article/entertainment/20140523/402998/李妍瑾轟信編故事　自曝幫＿＿擦屍水",
+				"time": "11:11",
+				"video": false
+			},
+			{
+				"title": "茱兒芭莉摩抱Q女　萌樣吸睛(290)",
+				"url": "/realtimenews/article/entertainment/20140523/402999/茱兒芭莉摩抱Q女　萌樣吸睛",
+				"time": "11:10",
+				"video": false
+			},
+			{
+				"title": "迪士尼有6大怪　真的莫名奇妙啊(869)",
+				"url": "/realtimenews/article/entertainment/20140523/402809/迪士尼有6大怪　真的莫名奇妙啊",
+				"time": "11:00",
+				"video": true
+			},
+			{
+				"title": "周迅男友嫌疑小三　深夜感情大告白(3511)",
 				"url": "/realtimenews/article/entertainment/20140523/402877/周迅男友嫌疑小三　深夜感情大告白",
 				"time": "04:25",
 				"video": false
 			},
 			{
-				"title": "早安夯團℃-ute今登台　見面擊掌貼近粉...(629)",
+				"title": "早安夯團℃-ute今登台　見面擊掌貼近粉...(653)",
 				"url": "/realtimenews/article/entertainment/20140523/402868/早安夯團℃-ute今登台　見面擊掌貼近粉絲",
 				"time": "03:10",
 				"video": false
 			},
 			{
-				"title": "【狗仔偷拍】戴立忍抽菸　7根菸蒂照片(1883)",
+				"title": "【狗仔偷拍】戴立忍抽菸　7根菸蒂照片(2099)",
 				"url": "/realtimenews/article/entertainment/20140523/402643/【狗仔偷拍】戴立忍抽菸　7根菸蒂照片",
 				"time": "02:35",
 				"video": true
@@ -325,280 +276,381 @@
 	},
 	{
 		"category": "時尚",
-		"news_count": 1,
-		"news": [
-			{
-				"title": "LV前女裝部總監　接掌Sonia Ryk...(320)",
-				"url": "/realtimenews/article/fashion/20140523/402796/LV前女裝部總監　接掌SoniaRykiel藝術總監",
-				"time": "00:01",
-				"video": false
-			}
-		]
+		"news_count": 0,
+		"news": []
 	},
 	{
 		"category": "生活",
-		"news_count": 14,
+		"news_count": 19,
 		"news": [
 			{
-				"title": "【捷運殺人】民眾悼念死者　江子翠獻花 (1769)",
-				"url": "/realtimenews/article/life/20140523/402854/【捷運殺人】民眾悼念死者　江子翠獻花",
-				"time": "00:32",
+				"title": "太爽　用餐送汽車　逛超市抽10萬元(0)",
+				"url": "/realtimenews/article/life/20140523/403034/太爽　用餐送汽車　逛超市抽10萬元",
+				"time": "11:55",
 				"video": false
 			},
 			{
-				"title": "埋線減重　飲食失控恐破功(133)",
+				"title": "婦產科接生疏失　女嬰慘遭割耳(0)",
+				"url": "/realtimenews/article/life/20140523/403029/婦產科接生疏失　女嬰慘遭割耳",
+				"time": "11:54",
+				"video": false
+			},
+			{
+				"title": "陸生來台就讀研究所　較去年增加218人(172)",
+				"url": "/realtimenews/article/life/20140523/403007/陸生來台就讀研究所　較去年增加218人",
+				"time": "11:33",
+				"video": false
+			},
+			{
+				"title": "【更新】大雨特報！　但明起3天放晴(2149)",
+				"url": "/realtimenews/article/life/20140523/402945/【更新】大雨特報！　但明起3天放晴",
+				"time": "10:16",
+				"video": false
+			},
+			{
+				"title": "埋線減重　飲食失控恐破功(555)",
 				"url": "/realtimenews/article/life/20140523/402942/埋線減重　飲食失控恐破功",
 				"time": "09:54",
 				"video": false
 			},
 			{
-				"title": "下周汽柴油價格　估漲0.2元(101)",
+				"title": "下周汽柴油價格　估漲0.2元(206)",
 				"url": "/realtimenews/article/life/20140523/402949/下周汽柴油價格　估漲0.2元",
 				"time": "09:39",
 				"video": false
 			},
 			{
-				"title": "荒廢7年　北市老議會變百億鬼屋(1268)",
+				"title": "荒廢7年　北市老議會變百億鬼屋(1568)",
 				"url": "/realtimenews/article/life/20140523/402934/荒廢7年　北市老議會變百億鬼屋",
 				"time": "09:27",
 				"video": false
 			},
 			{
-				"title": "雨小了！　明起3天放晴　可熱到34℃(442)",
-				"url": "/realtimenews/article/life/20140523/402945/雨小了！　明起3天放晴　可熱到34℃",
-				"time": "09:20",
-				"video": false
-			},
-			{
-				"title": "離譜客運司機　邊開車邊抽菸(764)",
+				"title": "離譜客運司機　邊開車邊抽菸(848)",
 				"url": "/realtimenews/article/life/20140523/402923/離譜客運司機　邊開車邊抽菸",
 				"time": "08:23",
 				"video": false
 			},
 			{
-				"title": "還當低頭族 小心頸椎壓迫癱瘓(413)",
+				"title": "還當低頭族 小心頸椎壓迫癱瘓(489)",
 				"url": "/realtimenews/article/life/20140523/402914/還當低頭族小心頸椎壓迫癱瘓",
 				"time": "08:10",
 				"video": false
 			},
 			{
-				"title": "3兄弟分家　肉粽價初一十五不一樣(958)",
+				"title": "3兄弟分家　肉粽價初一十五不一樣(1098)",
 				"url": "/realtimenews/article/life/20140523/402919/3兄弟分家　肉粽價初一十五不一樣",
 				"time": "08:08",
 				"video": false
 			},
 			{
-				"title": "誤食鹼粽水　恐食道或胃穿孔(314)",
+				"title": "誤食鹼粽水　恐食道或胃穿孔(342)",
 				"url": "/realtimenews/article/life/20140523/402917/誤食鹼粽水　恐食道或胃穿孔",
 				"time": "07:56",
 				"video": false
 			},
 			{
-				"title": "「我是XX，我今天搭捷運」　劉軒號召搭捷...(2811)",
+				"title": "「我是XX，我今天搭捷運」　劉軒號召搭捷...(3212)",
 				"url": "/realtimenews/article/life/20140523/402898/「我是XX，我今天搭捷運」　劉軒號召搭捷運",
 				"time": "07:19",
 				"video": false
 			},
 			{
-				"title": "魏揚學運一「佔」成名　楊逵文學館掀熱潮(533)",
+				"title": "魏揚學運一「佔」成名　楊逵文學館掀熱潮(580)",
 				"url": "/realtimenews/article/life/20140523/402837/魏揚學運一「佔」成名　楊逵文學館掀熱潮",
 				"time": "07:00",
 				"video": false
 			},
 			{
-				"title": "「打拼自己人生」　南科工程師轉業開餐飲(529)",
+				"title": "「打拼自己人生」　南科工程師轉業開餐飲(574)",
 				"url": "/realtimenews/article/life/20140523/402839/「打拼自己人生」　南科工程師轉業開餐飲",
 				"time": "07:00",
 				"video": false
 			},
 			{
-				"title": "科技致「百年孤寂」　余光中：坐一起卻很遙...(383)",
+				"title": "科技致「百年孤寂」　余光中：坐一起卻很遙...(406)",
 				"url": "/realtimenews/article/life/20140523/402899/科技致「百年孤寂」　余光中：坐一起卻很遙遠",
 				"time": "06:36",
 				"video": false
 			},
 			{
-				"title": "陽光有機會露臉　中部以北防瞬間大雨(530)",
+				"title": "陽光有機會露臉　中部以北防瞬間大雨(574)",
 				"url": "/realtimenews/article/life/20140523/402897/陽光有機會露臉　中部以北防瞬間大雨",
 				"time": "06:16",
+				"video": false
+			},
+			{
+				"title": "世界冠軍咖啡杯測師：「喝完都很累」(427)",
+				"url": "/realtimenews/article/life/20140523/402991/世界冠軍咖啡杯測師：「喝完都很累」",
+				"time": "11:13",
+				"video": false
+			},
+			{
+				"title": "大塊呆難怪瘦不了　冷飯冷麵4大澱粉助減肥(1437)",
+				"url": "/realtimenews/article/life/20140523/402925/大塊呆難怪瘦不了　冷飯冷麵4大澱粉助減肥",
+				"time": "10:33",
+				"video": false
+			},
+			{
+				"title": "波麗士看豹貓作石虎　網友險遭民眾誤會捷運...(1205)",
+				"url": "/realtimenews/article/life/20140523/402952/波麗士看豹貓作石虎　網友險遭民眾誤會捷運殺手",
+				"time": "10:19",
 				"video": false
 			}
 		]
 	},
 	{
 		"category": "社會",
-		"news_count": 29,
+		"news_count": 42,
 		"news": [
 			{
-				"title": "【捷運屠夫】態度從容　鄭捷買刀影像曝光(100167)",
-				"url": "/realtimenews/article/local/20140523/402510/【捷運屠夫】態度從容　鄭捷買刀影像曝光",
-				"time": "00:14",
-				"video": true
-			},
-			{
-				"title": "【捷運殺人】看守所接見鄭捷　少年稱一時好...(12282)",
-				"url": "/realtimenews/article/local/20140523/402851/【捷運殺人】看守所接見鄭捷　少年稱一時好奇",
-				"time": "00:11",
+				"title": "【捷運獵殺】站方延遲2分鐘通報　劉宏恩批...(0)",
+				"url": "/realtimenews/article/local/20140523/403031/【捷運獵殺】站方延遲2分鐘通報　劉宏恩批「北捷沒責任嗎？」",
+				"time": "11:55",
 				"video": false
 			},
 			{
-				"title": "【捷運殺人】4名死者　3人小睡遭襲殺(26827)",
-				"url": "/realtimenews/article/local/20140523/402761/【捷運殺人】4名死者　3人小睡遭襲殺",
-				"time": "00:09",
+				"title": "【捷運殺人】朱學恒：這波反省潮真是莫名其...(695)",
+				"url": "/realtimenews/article/local/20140523/403020/【捷運殺人】朱學恒：這波反省潮真是莫名其妙！",
+				"time": "11:50",
 				"video": false
 			},
 			{
-				"title": " 【捷運屠夫】捷運殺人事件懶人包(57253)",
-				"url": "/realtimenews/article/local/20140522/402504/【捷運屠夫】捷運殺人事件懶人包",
-				"time": "22:41",
+				"title": "​誤按詐騙簡訊　小額付款日損5千元 (2)",
+				"url": "/realtimenews/article/local/20140523/403005/​誤按詐騙簡訊　小額付款日損5千元",
+				"time": "11:48",
 				"video": false
 			},
 			{
-				"title": "【捷運屠夫】宥勝剖析　鄭捷爸媽根本不愛他(964)",
+				"title": "【捷運殺人】柯P：直接衝擊社會心理面(565)",
+				"url": "/realtimenews/article/local/20140523/403009/【捷運殺人】柯P：直接衝擊社會心理面",
+				"time": "11:31",
+				"video": false
+			},
+			{
+				"title": "「鄭捷是我偶像」　保全預告殺外勞送辦(2818)",
+				"url": "/realtimenews/article/local/20140523/403001/「鄭捷是我偶像」　保全預告殺外勞送辦",
+				"time": "11:25",
+				"video": false
+			},
+			{
+				"title": "比北捷警更快　高市警局長打包票(595)",
+				"url": "/realtimenews/article/local/20140523/402995/比北捷警更快　高市警局長打包票",
+				"time": "11:19",
+				"video": false
+			},
+			{
+				"title": "處置不及　東海師：學校應停招一年(2040)",
+				"url": "/realtimenews/article/local/20140523/402983/處置不及　東海師：學校應停招一年",
+				"time": "11:15",
+				"video": false
+			},
+			{
+				"title": "模仿效應延燒？　網傳525高雄隨機殺人(1856)",
+				"url": "/realtimenews/article/local/20140523/402988/模仿效應延燒？　網傳525高雄隨機殺人",
+				"time": "11:15",
+				"video": false
+			},
+			{
+				"title": "【捷運殺人】少年闖見　鄭捷今起只見家人(8768)",
+				"url": "/realtimenews/article/local/20140523/402953/【捷運殺人】少年闖見　鄭捷今起只見家人",
+				"time": "10:16",
+				"video": false
+			},
+			{
+				"title": "【捷運屠夫】宥勝剖析　鄭捷爸媽根本不愛他(8039)",
 				"url": "/realtimenews/article/local/20140523/402950/【捷運屠夫】宥勝剖析　鄭捷爸媽根本不愛他",
 				"time": "09:59",
 				"video": false
 			},
 			{
-				"title": "監察院發爐　正門頂樓冒煙火警(1)",
+				"title": "監察院發爐　正門頂樓冒煙火警(666)",
 				"url": "/realtimenews/article/local/20140523/402957/監察院發爐　正門頂樓冒煙火警",
 				"time": "09:55",
 				"video": false
 			},
 			{
-				"title": "越配帶孩子回娘家　老公告略誘罪重審(325)",
+				"title": "越配帶孩子回娘家　老公告略誘罪重審(657)",
 				"url": "/realtimenews/article/local/20140523/402946/越配帶孩子回娘家　老公告略誘罪重審",
 				"time": "09:45",
 				"video": false
 			},
 			{
-				"title": "【北捷殺人】立委籲馬總統發表談話　弭平創...(685)",
-				"url": "/realtimenews/article/local/20140523/402948/【北捷殺人】立委籲馬總統發表談話　弭平創傷",
-				"time": "09:43",
-				"video": false
-			},
-			{
-				"title": "【捷運屠夫】「不要殺我好嗎」　「捷」後餘...(6051)",
+				"title": "【捷運屠夫】「不要殺我好嗎」　「捷」後餘...(14241)",
 				"url": "/realtimenews/article/local/20140523/402939/【捷運屠夫】「不要殺我好嗎」　「捷」後餘生",
 				"time": "09:25",
 				"video": false
 			},
 			{
-				"title": "警逮到「自己」　一黑一白同名同姓(820)",
+				"title": "警逮到「自己」　一黑一白同名同姓(1205)",
 				"url": "/realtimenews/article/local/20140523/402938/警逮到「自己」　一黑一白同名同姓",
 				"time": "09:21",
 				"video": false
 			},
 			{
-				"title": "劉寶傑誇張氣嗆捷運屠夫　遭噓(7105)",
+				"title": "劉寶傑誇張氣嗆捷運屠夫　遭噓(9820)",
 				"url": "/realtimenews/article/local/20140523/402930/劉寶傑誇張氣嗆捷運屠夫　遭噓",
 				"time": "08:44",
 				"video": false
 			},
 			{
-				"title": "媽寶詐騙集團專挑中國人　「態度決定金錢高...(1603)",
+				"title": "媽寶詐騙集團專挑中國人　「態度決定金錢高...(1788)",
 				"url": "/realtimenews/article/local/20140523/402929/媽寶詐騙集團專挑中國人　「態度決定金錢高度」",
 				"time": "08:42",
 				"video": false
 			},
 			{
-				"title": "【捷運屠夫】網路情緒性PO文　警：「觸法...(2024)",
+				"title": "【捷運屠夫】網路情緒性PO文　警：「觸法...(5634)",
 				"url": "/realtimenews/article/local/20140523/402911/【捷運屠夫】網路情緒性PO文　警：「觸法一定究辦」",
 				"time": "07:49",
 				"video": false
 			},
 			{
-				"title": "【捷運屠夫】鄭捷自爆處男　嘆練身體仍殺到...(17494)",
+				"title": "【捷運屠夫】鄭捷自爆處男　嘆練身體仍殺到...(34412)",
 				"url": "/realtimenews/article/local/20140523/402905/【捷運屠夫】鄭捷自爆處男　嘆練身體仍殺到沒力",
 				"time": "07:26",
 				"video": false
 			},
 			{
-				"title": "【捷運屠夫】鄭捷同學：殺人掛嘴邊　用刀改...(5267)",
+				"title": "【捷運屠夫】鄭捷同學：殺人掛嘴邊　用刀改...(6827)",
 				"url": "/realtimenews/article/local/20140523/402907/【捷運屠夫】鄭捷同學：殺人掛嘴邊　用刀改世界",
 				"time": "07:17",
 				"video": false
 			},
 			{
-				"title": "【捷運屠夫】死意堅定　「沒判死就自殺」(5061)",
+				"title": "【捷運屠夫】死意堅定　「沒判死就自殺」(6534)",
 				"url": "/realtimenews/article/local/20140523/402904/【捷運屠夫】死意堅定　「沒判死就自殺」",
 				"time": "07:02",
 				"video": false
 			},
 			{
-				"title": "【捷運屠夫】父母若車上　「照殺不誤」(15239)",
+				"title": "【捷運屠夫】父母若車上　「照殺不誤」(26484)",
 				"url": "/realtimenews/article/local/20140523/402901/【捷運屠夫】父母若車上　「照殺不誤」",
 				"time": "06:51",
 				"video": false
 			},
 			{
-				"title": "【捷運殺人】傷者籲鄭捷們　「別濫殺無辜」(2846)",
+				"title": "【捷運殺人】傷者籲鄭捷們　「別濫殺無辜」(4191)",
 				"url": "/realtimenews/article/local/20140523/402902/【捷運殺人】傷者籲鄭捷們　「別濫殺無辜」",
 				"time": "06:50",
 				"video": false
 			},
 			{
-				"title": "冷血沙戮　3秒殺4人(4565)",
-				"url": "/realtimenews/article/local/20140523/402882/冷血沙戮　3秒殺4人",
+				"title": "「抓不到我」　鄭捷粉書團版主遭緝(5079)",
+				"url": "/realtimenews/article/local/20140523/402984/「抓不到我」　鄭捷粉書團版主遭緝",
+				"time": "11:14",
+				"video": false
+			},
+			{
+				"title": "【捷運殺人】男子揚言殺議員應曉薇(1964)",
+				"url": "/realtimenews/article/local/20140523/402987/【捷運殺人】男子揚言殺議員應曉薇",
+				"time": "11:13",
+				"video": true
+			},
+			{
+				"title": "鄭捷父母盼警保護安全　擬書面出面道歉(2498)",
+				"url": "/realtimenews/article/local/20140523/402993/鄭捷父母盼警保護安全　擬書面出面道歉",
+				"time": "11:09",
+				"video": false
+			},
+			{
+				"title": "【捷運殺人】遭砍乘客回憶：鄭捷殺紅了眼(2566)",
+				"url": "/realtimenews/article/local/20140523/402971/【捷運殺人】遭砍乘客回憶：鄭捷殺紅了眼",
+				"time": "11:04",
+				"video": false
+			},
+			{
+				"title": "【北捷殺人】立委籲馬總統發表談話　弭平創...(1564)",
+				"url": "/realtimenews/article/local/20140523/402948/【北捷殺人】立委籲馬總統發表談話　弭平創傷",
+				"time": "11:00",
+				"video": true
+			},
+			{
+				"title": "【捷運殺人】濫殺不留情　鄭捷上銬卻喊疼(7967)",
+				"url": "/realtimenews/article/local/20140523/402969/【捷運殺人】濫殺不留情　鄭捷上銬卻喊疼",
+				"time": "10:53",
+				"video": false
+			},
+			{
+				"title": "【捷運殺人】浩「捷」過後　民眾獻花悼念(662)",
+				"url": "/realtimenews/article/local/20140523/402973/【捷運殺人】浩「捷」過後　民眾獻花悼念",
+				"time": "10:53",
+				"video": false
+			},
+			{
+				"title": "【捷運殺人】帆：盼大家由此找到正面力量(2097)",
+				"url": "/realtimenews/article/local/20140523/402974/【捷運殺人】帆：盼大家由此找到正面力量",
+				"time": "10:47",
+				"video": false
+			},
+			{
+				"title": " 【驚魂過後】7萬人不敢搭捷運(3068)",
+				"url": "/realtimenews/article/local/20140523/402959/【驚魂過後】7萬人不敢搭捷運",
+				"time": "10:20",
+				"video": false
+			},
+			{
+				"title": "冷血殺戮　3秒殺4人(7819)",
+				"url": "/realtimenews/article/local/20140523/402882/冷血殺戮　3秒殺4人",
 				"time": "06:00",
 				"video": true
 			},
 			{
-				"title": "19歲粉絲會客　狂言炸彈更好(2299)",
+				"title": "19歲粉絲會客　狂言炸彈更好(2673)",
 				"url": "/realtimenews/article/local/20140523/402884/19歲粉絲會客　狂言炸彈更好",
 				"time": "06:00",
 				"video": true
 			},
 			{
-				"title": "一夕巨變　兇嫌父母震驚悔恨(7768)",
+				"title": "一夕巨變　兇嫌父母震驚悔恨(9620)",
 				"url": "/realtimenews/article/local/20140523/402883/一夕巨變　兇嫌父母震驚悔恨",
 				"time": "06:00",
 				"video": false
 			},
 			{
-				"title": "捷運英雄勇伯奪刀　休假警消指路疏散(1295)",
+				"title": "捷運英雄勇伯奪刀　休假警消指路疏散(1491)",
 				"url": "/realtimenews/article/local/20140523/402886/捷運英雄勇伯奪刀　休假警消指路疏散",
 				"time": "06:00",
 				"video": true
 			},
 			{
-				"title": "休假警消抱嬰　領20人逃生(1357)",
+				"title": "休假警消抱嬰　領20人逃生(1575)",
 				"url": "/realtimenews/article/local/20140523/402887/休假警消抱嬰　領20人逃生",
 				"time": "06:00",
 				"video": false
 			},
 			{
-				"title": "張正翰求職遇死劫　親友師長悲痛(1264)",
+				"title": "張正翰求職遇死劫　親友師長悲痛(1557)",
 				"url": "/realtimenews/article/local/20140523/402888/張正翰求職遇死劫　親友師長悲痛",
 				"time": "06:00",
 				"video": true
 			},
 			{
-				"title": "胸口被插刀　差2cm穿心(2426)",
+				"title": "胸口被插刀　差2cm穿心(3402)",
 				"url": "/realtimenews/article/local/20140523/402889/胸口被插刀　差2cm穿心",
 				"time": "06:00",
 				"video": false
 			},
 			{
-				"title": "李翠雲赴好友聚會　命喪歸途(1068)",
+				"title": "李翠雲赴好友聚會　命喪歸途(1446)",
 				"url": "/realtimenews/article/local/20140523/402890/李翠雲赴好友聚會　命喪歸途",
 				"time": "06:00",
 				"video": false
 			},
 			{
-				"title": "80荷槍保警支援　爭取捷運警察擴編(418)",
+				"title": "80荷槍保警支援　爭取捷運警察擴編(454)",
 				"url": "/realtimenews/article/local/20140523/402891/80荷槍保警支援　爭取捷運警察擴編",
 				"time": "06:00",
 				"video": false
 			},
 			{
-				"title": "身中百刀　男子慘死公墓(1038)",
+				"title": "身中百刀　男子慘死公墓(1128)",
 				"url": "/realtimenews/article/local/20140523/402892/身中百刀　男子慘死公墓",
 				"time": "06:00",
 				"video": true
 			},
 			{
-				"title": "【捷運屠夫】好友現身　臨前說「要動手了」(38642)",
+				"title": "【捷運屠夫】好友現身　臨前說「要動手了」(82135)",
 				"url": "/realtimenews/article/local/20140523/402859/【捷運屠夫】好友現身　臨前說「要動手了」",
 				"time": "03:23",
 				"video": false
@@ -607,178 +659,130 @@
 	},
 	{
 		"category": "國際",
-		"news_count": 29,
+		"news_count": 21,
 		"news": [
 			{
-				"title": "「博科聖地」槍殺父兄　倖存少女回憶屠殺慘...(1007)",
-				"url": "/realtimenews/article/international/20140523/402864/「博科聖地」槍殺父兄　倖存少女回憶屠殺慘劇",
-				"time": "02:26",
+				"title": "「博科聖地」再奪27命　聯合國實施制裁(176)",
+				"url": "/realtimenews/article/international/20140523/402992/「博科聖地」再奪27命　聯合國實施制裁",
+				"time": "11:28",
 				"video": false
 			},
 			{
-				"title": "泰國宵禁民眾急回家　10時後街頭明顯冷清(1023)",
-				"url": "/realtimenews/article/international/20140523/402855/泰國宵禁民眾急回家　10時後街頭明顯冷清",
-				"time": "02:19",
+				"title": "泰陸軍總司令宣布　「我來當總理」(2879)",
+				"url": "/realtimenews/article/international/20140523/402960/泰陸軍總司令宣布　「我來當總理」",
+				"time": "10:18",
 				"video": false
 			},
 			{
-				"title": "泰國政變　專家憂恐引發更多動亂(1033)",
-				"url": "/realtimenews/article/international/20140523/402863/泰國政變　專家憂恐引發更多動亂",
-				"time": "02:10",
-				"video": false
-			},
-			{
-				"title": "麥片加水替代奶粉　7月大女嬰被餓死(1665)",
-				"url": "/realtimenews/article/international/20140523/402862/麥片加水替代奶粉　7月大女嬰被餓死",
-				"time": "01:50",
-				"video": false
-			},
-			{
-				"title": "新疆遇襲　普丁致電習近平慰問(784)",
-				"url": "/realtimenews/article/international/20140523/402860/新疆遇襲　普丁致電習近平慰問",
-				"time": "01:30",
-				"video": false
-			},
-			{
-				"title": "丈夫去世7年　女子保存屍體每天望屍說話(37817)",
-				"url": "/realtimenews/article/international/20140523/402858/丈夫去世7年　女子保存屍體每天望屍說話",
-				"time": "01:12",
-				"video": false
-			},
-			{
-				"title": "「沒有女人可抗拒我」　百萬富翁被老婆甩6...(17700)",
-				"url": "/realtimenews/article/international/20140523/402857/「沒有女人可抗拒我」　百萬富翁被老婆甩6次",
-				"time": "00:50",
-				"video": false
-			},
-			{
-				"title": "Levi's執行長　牛仔褲竟1年沒洗(11435)",
-				"url": "/realtimenews/article/international/20140523/402847/Levi's執行長　牛仔褲竟1年沒洗",
-				"time": "00:02",
-				"video": true
-			},
-			{
-				"title": "設中國為假想敵　日本舉行奪島演習(438)",
-				"url": "/realtimenews/article/international/20140522/402848/設中國為假想敵　日本舉行奪島演習",
-				"time": "23:41",
-				"video": false
-			},
-			{
-				"title": "怕宵禁泰國民眾急著回家　傳晚間網路將中斷(1090)",
-				"url": "/realtimenews/article/international/20140522/402845/怕宵禁泰國民眾急著回家　傳晚間網路將中斷",
-				"time": "23:33",
-				"video": false
-			},
-			{
-				"title": "恐襲聲中2機迫降　網友：「越來越亂的節奏...(2430)",
-				"url": "/realtimenews/article/international/20140522/402681/恐襲聲中2機迫降　網友：「越來越亂的節奏」",
-				"time": "23:03",
-				"video": false
-			},
-			{
-				"title": "手機金屬機殼　恐致「過敏性接觸皮膚炎」(756)",
-				"url": "/realtimenews/article/international/20140522/402838/手機金屬機殼　恐致「過敏性接觸皮膚炎」",
-				"time": "23:00",
-				"video": false
-			},
-			{
-				"title": "當AV女優被同學霸凌　女大生舉槍自盡(15392)",
+				"title": "當AV女優被同學霸凌　女大生舉槍自盡(26502)",
 				"url": "/realtimenews/article/international/20140523/402908/當AV女優被同學霸凌　女大生舉槍自盡",
 				"time": "10:06",
 				"video": true
 			},
 			{
-				"title": "【公庫】德國小丑上街示威 盼正名要保障(82)",
+				"title": "【公庫】德國小丑上街示威 盼正名要保障(381)",
 				"url": "/realtimenews/article/international/20140523/402954/【公庫】德國小丑上街示威盼正名要保障",
 				"time": "09:59",
 				"video": false
 			},
 			{
-				"title": "新疆恐襲5嫌死　4越野車輾人(452)",
+				"title": "新疆恐襲5嫌死　4越野車輾人(798)",
 				"url": "/realtimenews/article/international/20140523/402947/新疆恐襲5嫌死　4越野車輾人",
 				"time": "09:42",
 				"video": false
 			},
 			{
-				"title": "電子菸插iPhone充電器　女子險燒死(1551)",
+				"title": "電子菸插iPhone充電器　女子險燒死(2010)",
 				"url": "/realtimenews/article/international/20140523/402935/電子菸插iPhone充電器　女子險燒死",
 				"time": "09:14",
 				"video": false
 			},
 			{
-				"title": "用手機的後遺症　皮膚炎患者增(729)",
+				"title": "用手機的後遺症　皮膚炎患者增(948)",
 				"url": "/realtimenews/article/international/20140523/402932/用手機的後遺症　皮膚炎患者增",
 				"time": "08:59",
 				"video": false
 			},
 			{
-				"title": "看到小三與小王做愛　男怒殺小三(5839)",
+				"title": "看到小三與小王做愛　男怒殺小三(7437)",
 				"url": "/realtimenews/article/international/20140523/402920/看到小三與小王做愛　男怒殺小三",
 				"time": "08:06",
 				"video": false
 			},
 			{
-				"title": "內褲夢遊男雕像　遭惡意潑油(673)",
+				"title": "內褲夢遊男雕像　遭惡意潑油(810)",
 				"url": "/realtimenews/article/international/20140523/402912/內褲夢遊男雕像　遭惡意潑油",
 				"time": "07:42",
 				"video": false
 			},
 			{
-				"title": "盈拉有沒有逃亡　今上午見分曉(968)",
+				"title": "盈拉有沒有逃亡　今上午見分曉(1194)",
 				"url": "/realtimenews/article/international/20140523/402903/盈拉有沒有逃亡　今上午見分曉",
 				"time": "06:59",
 				"video": false
 			},
 			{
-				"title": "五月二十三日世界各報頭條搶先報(796)",
+				"title": "五月二十三日世界各報頭條搶先報(844)",
 				"url": "/realtimenews/article/international/20140523/402900/五月二十三日世界各報頭條搶先報",
 				"time": "06:40",
 				"video": false
 			},
 			{
-				"title": "京東掛牌上市　開盤價21.75美元(494)",
+				"title": "傳新疆又爆炸　3市戒嚴(448)",
+				"url": "/realtimenews/article/international/20140523/402972/傳新疆又爆炸　3市戒嚴",
+				"time": "10:48",
+				"video": false
+			},
+			{
+				"title": "駐泰5千軍人　澳嚴正關切政變(476)",
+				"url": "/realtimenews/article/international/20140523/402966/駐泰5千軍人　澳嚴正關切政變",
+				"time": "10:40",
+				"video": false
+			},
+			{
+				"title": "京東掛牌上市　開盤價21.75美元(521)",
 				"url": "/realtimenews/article/international/20140523/402893/京東掛牌上市　開盤價21.75美元",
 				"time": "05:38",
 				"video": false
 			},
 			{
-				"title": "中國殲15新照曝光　顯示進入量產　(1698)",
+				"title": "中國殲15新照曝光　顯示進入量產　(1803)",
 				"url": "/realtimenews/article/international/20140523/402885/中國殲15新照曝光　顯示進入量產　",
 				"time": "05:08",
 				"video": false
 			},
 			{
-				"title": "豐田三車款召修　全球回收51.6萬(1791)",
+				"title": "豐田三車款召修　全球回收51.6萬(1874)",
 				"url": "/realtimenews/article/international/20140523/402880/豐田三車款召修　全球回收51.6萬",
 				"time": "04:39",
 				"video": false
 			},
 			{
-				"title": "泰國政變　歐盟表關切(867)",
+				"title": "泰國政變　歐盟表關切(909)",
 				"url": "/realtimenews/article/international/20140523/402879/泰國政變　歐盟表關切",
 				"time": "04:12",
 				"video": false
 			},
 			{
-				"title": "埃及總統大選　國防部長海外投票獲94.5...(550)",
+				"title": "埃及總統大選　國防部長海外投票獲94.5...(559)",
 				"url": "/realtimenews/article/international/20140523/402878/埃及總統大選　國防部長海外投票獲94.5支持",
 				"time": "03:46",
 				"video": false
 			},
 			{
-				"title": "最後化武材料　敘利亞已著手移除(490)",
+				"title": "最後化武材料　敘利亞已著手移除(505)",
 				"url": "/realtimenews/article/international/20140523/402870/最後化武材料　敘利亞已著手移除",
 				"time": "03:20",
 				"video": false
 			},
 			{
-				"title": "嚴控社交媒體　泰軍下令封鎖反對言論(619)",
+				"title": "嚴控社交媒體　泰軍下令封鎖反對言論(660)",
 				"url": "/realtimenews/article/international/20140523/402867/嚴控社交媒體　泰軍下令封鎖反對言論",
 				"time": "03:08",
 				"video": false
 			},
 			{
-				"title": "泰國政變　美國表失望將重估軍事合作(1196)",
+				"title": "泰國政變　美國表失望將重估軍事合作(1297)",
 				"url": "/realtimenews/article/international/20140523/402866/泰國政變　美國表失望將重估軍事合作",
 				"time": "02:40",
 				"video": false
@@ -787,58 +791,64 @@
 	},
 	{
 		"category": "財經",
-		"news_count": 9,
+		"news_count": 10,
 		"news": [
 			{
-				"title": "75年次超正人妻　網路麻豆兼賣衣(2836)",
-				"url": "/realtimenews/article/finance/20140523/402861/75年次超正人妻　網路麻豆兼賣衣",
-				"time": "01:36",
+				"title": "焦點股～勝華改吃小米　量能飆大盤第5高(62)",
+				"url": "/realtimenews/article/finance/20140523/403024/焦點股～勝華改吃小米　量能飆大盤第5高",
+				"time": "11:48",
 				"video": false
 			},
 			{
-				"title": "【更新】製造業表現佳　美股早盤續漲(374)",
-				"url": "/realtimenews/article/finance/20140522/402840/【更新】製造業表現佳　美股早盤續漲",
-				"time": "23:54",
+				"title": "泰銖回神　泰股跳空下殺(50)",
+				"url": "/realtimenews/article/finance/20140523/403018/泰銖回神　泰股跳空下殺",
+				"time": "11:46",
 				"video": false
 			},
 			{
-				"title": "華亞科、華冠及寶徠　今起恢復信用交易(209)",
+				"title": "台股盤中～指數攻抵9005點　有望挑戰今...(92)",
+				"url": "/realtimenews/article/finance/20140523/403004/台股盤中～指數攻抵9005點　有望挑戰今年高點",
+				"time": "11:27",
+				"video": true
+			},
+			{
+				"title": "華亞科、華冠及寶徠　今起恢復信用交易(323)",
 				"url": "/realtimenews/article/finance/20140523/402937/華亞科、華冠及寶徠　今起恢復信用交易",
 				"time": "09:08",
 				"video": false
 			},
 			{
-				"title": "F泰鼎、F-綠河：泰政變不影響財務及業務(118)",
+				"title": "F泰鼎、F-綠河：泰政變不影響財務及業務(173)",
 				"url": "/realtimenews/article/finance/20140523/402936/F泰鼎、F-綠河：泰政變不影響財務及業務",
 				"time": "09:05",
 				"video": false
 			},
 			{
-				"title": "主要企業投資泰國懶人包(239)",
+				"title": "主要企業投資泰國懶人包(389)",
 				"url": "/realtimenews/article/finance/20140523/402933/主要企業投資泰國懶人包",
 				"time": "09:00",
 				"video": false
 			},
 			{
-				"title": "台股盤前～量能維持850億以上　有望挑戰...(148)",
+				"title": "台股盤前～量能維持850億以上　有望挑戰...(179)",
 				"url": "/realtimenews/article/finance/20140523/402931/台股盤前～量能維持850億以上　有望挑戰9000點",
 				"time": "08:47",
 				"video": false
 			},
 			{
-				"title": "元大期晨訊～技術面穩中透強　期指墊高可期(183)",
+				"title": "元大期晨訊～技術面穩中透強　期指墊高可期(208)",
 				"url": "/realtimenews/article/finance/20140523/402928/元大期晨訊～技術面穩中透強　期指墊高可期",
 				"time": "08:33",
 				"video": false
 			},
 			{
-				"title": "零售股助陣　S&P 500逼近新高點(523)",
+				"title": "零售股助陣　S&P 500逼近新高點(534)",
 				"url": "/realtimenews/article/finance/20140523/402895/零售股助陣　S&P500逼近新高點",
 				"time": "06:11",
 				"video": false
 			},
 			{
-				"title": "五月二十三日財經焦點搶先看(313)",
+				"title": "五月二十三日財經焦點搶先看(347)",
 				"url": "/realtimenews/article/finance/20140523/402894/五月二十三日財經焦點搶先看",
 				"time": "05:59",
 				"video": false
@@ -847,148 +857,135 @@
 	},
 	{
 		"category": "地產",
-		"news_count": 1,
-		"news": [
-			{
-				"title": "【命理哥開示】林德福指點　捷運族滑機睡覺...(786)",
-				"url": "/realtimenews/article/property/20140523/402846/【命理哥開示】林德福指點　捷運族滑機睡覺該死?",
-				"time": "00:01",
-				"video": false
-			}
-		]
+		"news_count": 0,
+		"news": []
 	},
 	{
 		"category": "政治",
-		"news_count": 7,
+		"news_count": 14,
 		"news": [
 			{
-				"title": "【更新】【沃草戰報】段宜康轟服貿「保密文...(3429)",
-				"url": "/realtimenews/article/politics/20140523/401986/【更新】【沃草戰報】段宜康轟服貿「保密文件」黑箱，王郁琦：行政院有權決定密件",
-				"time": "00:35",
+				"title": "核四停建案表決　丁守中等4藍委再倒戈(349)",
+				"url": "/realtimenews/article/politics/20140523/403011/核四停建案表決　丁守中等4藍委再倒戈",
+				"time": "11:46",
 				"video": false
 			},
 			{
-				"title": "立院開臨時會　島國前進：重大議案強渡關山(998)",
-				"url": "/realtimenews/article/politics/20140522/402842/立院開臨時會　島國前進：重大議案強渡關山",
-				"time": "23:07",
+				"title": "陳錕山赴中任職　蔡煌瑯轟：嚴重的國安危機(425)",
+				"url": "/realtimenews/article/politics/20140523/403013/陳錕山赴中任職　蔡煌瑯轟：嚴重的國安危機",
+				"time": "11:42",
 				"video": false
 			},
 			{
-				"title": "監院頂樓圓塔失火　已控制但燒焦味仍重(0)",
+				"title": "中大教授投共　蔣偉寧澄清沒有提拔他(504)",
+				"url": "/realtimenews/article/politics/20140523/403015/中大教授投共　蔣偉寧澄清沒有提拔他",
+				"time": "11:40",
+				"video": false
+			},
+			{
+				"title": "柯P評廢松機「鬼扯」　姚文智：柯自己打臉(500)",
+				"url": "/realtimenews/article/politics/20140523/402994/柯P評廢松機「鬼扯」　姚文智：柯自己打臉",
+				"time": "11:38",
+				"video": false
+			},
+			{
+				"title": "帆神批藍趁悲劇過服貿　國民黨：惡劣政治操...(987)",
+				"url": "/realtimenews/article/politics/20140523/403002/帆神批藍趁悲劇過服貿　國民黨：惡劣政治操作",
+				"time": "11:34",
+				"video": false
+			},
+			{
+				"title": "江揆30日首度出訪薩國　過境洛杉磯(148)",
+				"url": "/realtimenews/article/politics/20140523/403000/江揆30日首度出訪薩國　過境洛杉磯",
+				"time": "11:24",
+				"video": false
+			},
+			{
+				"title": "監院頂樓圓塔失火　已控制但燒焦味仍重(451)",
 				"url": "/realtimenews/article/politics/20140523/402958/監院頂樓圓塔失火　已控制但燒焦味仍重",
 				"time": "10:08",
 				"video": false
 			},
 			{
-				"title": "投共教授曾接林務局委託案　林務局：不評論(246)",
+				"title": "投共教授曾接林務局委託案　林務局：不評論(659)",
 				"url": "/realtimenews/article/politics/20140523/402951/投共教授曾接林務局委託案　林務局：不評論",
 				"time": "09:49",
 				"video": false
 			},
 			{
-				"title": "立院臨時會審監督條例　王金平：能過是最好(651)",
+				"title": "立院臨時會審監督條例　王金平：能過是最好(857)",
 				"url": "/realtimenews/article/politics/20140523/402940/立院臨時會審監督條例　王金平：能過是最好",
 				"time": "09:28",
 				"video": false
 			},
 			{
-				"title": "我衛星遙測專家　遭爆「棄職投共」(2756)",
+				"title": "我衛星遙測專家　遭爆「棄職投共」(4275)",
 				"url": "/realtimenews/article/politics/20140523/402913/我衛星遙測專家　遭爆「棄職投共」",
 				"time": "07:43",
 				"video": false
 			},
 			{
-				"title": "五月二十三日各報頭條搶先報(1354)",
+				"title": "五月二十三日各報頭條搶先報(1494)",
 				"url": "/realtimenews/article/politics/20140523/402896/五月二十三日各報頭條搶先報",
 				"time": "06:30",
+				"video": false
+			},
+			{
+				"title": "蔡正元又惹議　嗆徐永明當鄭捷粉絲(5275)",
+				"url": "/realtimenews/article/politics/20140523/402975/蔡正元又惹議　嗆徐永明當鄭捷粉絲",
+				"time": "11:04",
+				"video": true
+			},
+			{
+				"title": "失言？張盛和：怎沒人見義勇為？網友嗆你來(4507)",
+				"url": "/realtimenews/article/politics/20140523/402964/失言？張盛和：怎沒人見義勇為？網友嗆你來",
+				"time": "10:43",
+				"video": false
+			},
+			{
+				"title": "衛星專家赴中國　​​國安單位：研究不涉國...(809)",
+				"url": "/realtimenews/article/politics/20140523/402968/衛星專家赴中國　​​國安單位：研究不涉國安機敏",
+				"time": "10:40",
 				"video": false
 			}
 		]
 	},
 	{
 		"category": "論壇",
-		"news_count": 14,
+		"news_count": 6,
 		"news": [
 			{
-				"title": "郭正亮：嚴防媒體複製隨機殺人案(1160)",
-				"url": "/realtimenews/article/forum/20140523/402759/郭正亮：嚴防媒體複製隨機殺人案",
-				"time": "00:44",
-				"video": false
-			},
-			{
-				"title": "趙少康：殺手的虛擬與真實世界(1202)",
-				"url": "/realtimenews/article/forum/20140523/402757/趙少康：殺手的虛擬與真實世界",
-				"time": "00:39",
-				"video": false
-			},
-			{
-				"title": "那被抽走靈魂的殭屍背後(1156)",
-				"url": "/realtimenews/article/forum/20140523/402756/那被抽走靈魂的殭屍背後",
-				"time": "00:35",
-				"video": false
-			},
-			{
-				"title": "平路：冷血，個人還是社會？(1910)",
-				"url": "/realtimenews/article/forum/20140523/402856/平路：冷血，個人還是社會？",
-				"time": "00:30",
-				"video": false
-			},
-			{
-				"title": "別讓「一戰成名」效應擴散(950)",
-				"url": "/realtimenews/article/forum/20140523/402753/別讓「一戰成名」效應擴散",
-				"time": "00:25",
-				"video": false
-			},
-			{
-				"title": "暴力電玩不一定引發暴力(659)",
-				"url": "/realtimenews/article/forum/20140523/402747/暴力電玩不一定引發暴力",
-				"time": "00:23",
-				"video": false
-			},
-			{
-				"title": "【謝立聖小說插畫】 兩位立委責怪捷運族警...(1669)",
-				"url": "/realtimenews/article/forum/20140522/402836/【謝立聖小說插畫】兩位立委責怪捷運族警覺性不夠，缺乏常識，滑手機滑到沒命...",
-				"time": "22:47",
-				"video": false
-			},
-			{
-				"title": "【公庫】悲劇竟是天注定(2546)",
-				"url": "/realtimenews/article/forum/20140522/402834/【公庫】悲劇竟是天注定",
-				"time": "22:42",
-				"video": false
-			},
-			{
-				"title": "【科學月刊】還需要核能人才嗎？(549)",
+				"title": "【科學月刊】還需要核能人才嗎？(638)",
 				"url": "/realtimenews/article/forum/20140523/402506/【科學月刊】還需要核能人才嗎？",
 				"time": "09:00",
 				"video": false
 			},
 			{
-				"title": "史丹利：我們又少了個 逃離空間 (1487)",
+				"title": "史丹利：我們又少了個 逃離空間 (1566)",
 				"url": "/realtimenews/article/forum/20140523/402875/史丹利：我們又少了個逃離空間",
 				"time": "03:29",
 				"video": false
 			},
 			{
-				"title": "吳佳璇：難以承受的告別 (1075)",
+				"title": "吳佳璇：難以承受的告別 (1121)",
 				"url": "/realtimenews/article/forum/20140523/402874/吳佳璇：難以承受的告別",
 				"time": "03:27",
 				"video": false
 			},
 			{
-				"title": "吳若權：因為在意所以慘了(788)",
+				"title": "吳若權：因為在意所以慘了(835)",
 				"url": "/realtimenews/article/forum/20140523/402873/吳若權：因為在意所以慘了",
 				"time": "03:25",
 				"video": false
 			},
 			{
-				"title": "張曼娟：不得不隱瞞 (798)",
+				"title": "張曼娟：不得不隱瞞 (830)",
 				"url": "/realtimenews/article/forum/20140523/402872/張曼娟：不得不隱瞞",
 				"time": "03:23",
 				"video": false
 			},
 			{
-				"title": "劉志偉：文青的日曬米(401)",
+				"title": "劉志偉：文青的日曬米(418)",
 				"url": "/realtimenews/article/forum/20140523/402871/劉志偉：文青的日曬米",
 				"time": "03:20",
 				"video": false
