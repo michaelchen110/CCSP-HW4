@@ -1,6 +1,8 @@
-var request = require('request');
-var cheerio = require('cheerio');
-var fs = require('fs');
+var request = require('request'),
+	cheerio = require('cheerio'),
+	fs = require('fs'),
+	moment = require('moment');
+
 var categories = ["動物", "FUN", "瘋啥", "搜奇", "正妹", "體育", "臉團", "娛樂", "時尚", "生活", "社會", "國際", "財經", "地產", "政治", "論壇"],
 	data = [], check = [],
 	appledaily,
@@ -64,9 +66,7 @@ function result(){
 		if (data[max].news_count < data[i].news_count) max = i;
 	}
 
-	var now = new Date();
-	var current_hour = now.getHours();
-	console.log(new Date().toISOString().replace(/T/, ' ').replace(/\..+/, '') +"新聞數量最多的分類為為 [" + data[max].category + "] ，共有 " + data[max].news_count + " 則新聞");
+	console.log(moment().format('LLL') + " - 新聞數量最多的分類為為 [" + data[max].category + "] ，共有 " + data[max].news_count + " 則新聞");
 	
 	appledaily = JSON.stringify(data, null, "\t");
 	fs.writeFileSync('appledaily.json', appledaily);
